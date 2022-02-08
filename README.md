@@ -1,1 +1,3 @@
-# jogo_da_forca_python
+# Jogo da forca
+
+> Jogo da forca usando programação orientada a objetos.
